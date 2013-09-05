@@ -9,7 +9,7 @@ import logging
 from color_logging import ColoredFormatter
 
 
-PROVIDER_CHOICES = ['otp', 'hpjp']
+PROVIDER_CHOICES = ['otp', 'hpjp', 'goabout']
 
 
 logger = logging.getLogger(__name__)
